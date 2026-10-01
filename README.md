@@ -10,6 +10,7 @@
 ## How to run
 
 ```
+// after cloning the repo:
 javac Game2048.java
 java Game2048
 ```
