@@ -1,6 +1,6 @@
 # 2048
 
-A simple version of the game 2048, written in Java with Swing.
+422c 10/1 recitation attendance: a simple version of the game 2048, written in Java with Swing.
 
 ## Requirements
 
